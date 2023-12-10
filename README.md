@@ -73,15 +73,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 //Points  Cover IN This Project
 
 
-Use  of create a react app
- setup redux toolkit 
- make apps with reactjs and tailwindcss
- make apps with reactjs, tailwindcss and reduxtoolkit
- host react apps
- deploy a application 
- deploy apps using vercel
- make react app and host on vercel
-Concept of protected routes
- add loader inside the project
- add react-spinners
- use protected routes
+--- Use  of create a react app\
+--- setup redux toolkit\ 
+--- make apps with reactjs and tailwindcss\
+--- make apps with reactjs, tailwindcss and reduxtoolkit\
+--- host react apps\
+--- deploy a application\ 
+--- deploy apps using vercel\
+--- make react app and host on vercel\
+--- Concept of protected routes\
+--- add loader inside the project\
+--- add react-spinners\
+--- use protected routes\
+
+
+### `Vercel Deployment Link`
+https://food-ordering-app-alpha-topaz.vercel.app/
