@@ -6,13 +6,13 @@ import { LOGO_URL } from "../utils/constants";
 const Navbar = () => {
   const dispatch = useDispatch();
   return (
-    <nav className="flex flex-col lg:flex-row justify-between py-3 mx-6 mb-10">
+    <nav className="flex flex-col lg:flex-row justify-between py-3 mx-6 mb-10 items-center">
       <div>
         {/* <h3 className="text-xl font-bold text-gray-600">
           {new Date().toUTCString().slice(0, 16)}
         </h3> */}
        <div className="logo-container w-24">
-        <img className="logo" src={LOGO_URL} />
+        <img className="logo" src="./headerLogo1.png" />
       </div>
       </div>
       <div>
